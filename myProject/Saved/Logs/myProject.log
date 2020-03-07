@@ -3930,3 +3930,1384 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.03.07-15.01.42:756][997]LogContentValidation: Display: Validating Blueprint /Game/game/character/blueprint/MainCharacter.MainCharacter
 [2020.03.07-15.01.53:383][120]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
 [2020.03.07-15.01.55:084][302]Cmd: SELECT NONE
+[2020.03.07-15.04.11:231][138]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-15.04.11:250][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-15.04.11:250][138]PIE: New page: PIE session: MainMap (Mar 7, 2020, 9:04:11 AM)
+[2020.03.07-15.04.11:250][138]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-15.04.11:253][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002657s)
+[2020.03.07-15.04.11:254][138]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-15.04.11:255][138]LogPlayLevel: PIE: World Init took: (0.002172s)
+[2020.03.07-15.04.11:255][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.005021s)
+[2020.03.07-15.04.11:288][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.03.07-15.04.11:292][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-15.04.11:292][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-15.04.11:292][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-15.04.11:292][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-15.04.11:292][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-15.04.11:292][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-15.04.11:292][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-15.04.11:292][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-15.04.11:292][138]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-15.04.11:292][138]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-15.04.11:309][138]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-15.04.11:309][138]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.04.11:309][138]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-15.04.11:309][138]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-15.04.11:309][138]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-15.04.11:309][138]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-15.04.11:309][138]LogAudioMixer: Display: Channel Order:
+[2020.03.07-15.04.11:309][138]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-15.04.11:309][138]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-15.04.11:321][138]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.04.11:324][138]LogInit: FAudioDevice initialized.
+[2020.03.07-15.04.11:336][138]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-15.04.11:337][138]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.03.07-12.04.11
+[2020.03.07-15.04.11:338][138]LogWorld: Bringing up level for play took: 0.000451
+[2020.03.07-15.04.11:338][138]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.03.07-15.04.11:340][138]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.448
+[2020.03.07-15.04.28:282][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.04.28:282][ 70]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.07-15.04.28:312][ 70]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.07-15.04.28:313][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.04.28:313][ 70]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-15.04.28:313][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.04.28:313][ 70]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.04.28:313][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.04.28:323][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-15.04.28:328][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.04.28:363][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.04.28:368][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.04.28:372][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.07-15.04.28:397][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.03.07-15.04.31:256][363]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-15.04.31:273][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-15.04.31:273][363]PIE: New page: PIE session: MainMap (Mar 7, 2020, 9:04:31 AM)
+[2020.03.07-15.04.31:273][363]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-15.04.31:275][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002093s)
+[2020.03.07-15.04.31:276][363]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-15.04.31:277][363]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2020.03.07-15.04.31:277][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.003689s)
+[2020.03.07-15.04.31:311][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.03.07-15.04.31:312][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-15.04.31:312][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-15.04.31:312][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-15.04.31:312][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-15.04.31:312][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-15.04.31:312][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-15.04.31:312][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-15.04.31:312][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-15.04.31:312][363]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-15.04.31:312][363]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-15.04.31:327][363]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-15.04.31:327][363]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.04.31:327][363]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-15.04.31:327][363]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-15.04.31:327][363]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-15.04.31:327][363]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-15.04.31:327][363]LogAudioMixer: Display: Channel Order:
+[2020.03.07-15.04.31:327][363]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-15.04.31:327][363]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-15.04.31:339][363]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.04.31:340][363]LogInit: FAudioDevice initialized.
+[2020.03.07-15.04.31:355][363]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-15.04.31:357][363]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.03.07-12.04.31
+[2020.03.07-15.04.31:357][363]LogWorld: Bringing up level for play took: 0.000538
+[2020.03.07-15.04.31:357][363]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.03.07-15.04.31:360][363]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.428
+[2020.03.07-15.04.57:358][320]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.04.57:363][320]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.07-15.04.57:382][320]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.07-15.04.57:383][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.04.57:383][320]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-15.04.57:383][320]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.04.57:383][320]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.04.57:383][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.04.57:391][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-15.04.57:396][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.04.57:424][320]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.04.57:429][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.04.57:432][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.03.07-15.04.57:481][322]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.03.07-15.05.16:607][202]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.07-15.05.16:613][202]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.07-15.05.21:662][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/game/character/blueprint/MainCharacter.MainCharacter
+[2020.03.07-15.05.52:748][ 79]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainCharacterCF51BFBB4FA8DA74721DE2BDB44455C7.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/blueprint/MainCharacter.uasset'
+[2020.03.07-15.05.52:770][ 79]AssetCheck: New page: Asset Save: MainCharacter
+[2020.03.07-15.05.52:770][ 79]LogContentValidation: Display: Validating Blueprint /Game/game/character/blueprint/MainCharacter.MainCharacter
+[2020.03.07-15.05.59:666][858]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainCharacterDF2A678C4BA6B7A064C06F8B6C2F49AC.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/blueprint/MainCharacter.uasset'
+[2020.03.07-15.05.59:682][858]AssetCheck: New page: Asset Save: MainCharacter
+[2020.03.07-15.05.59:682][858]LogContentValidation: Display: Validating Blueprint /Game/game/character/blueprint/MainCharacter.MainCharacter
+[2020.03.07-15.06.00:286][923]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-15.06.00:305][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-15.06.00:305][923]PIE: New page: PIE session: MainMap (Mar 7, 2020, 9:06:00 AM)
+[2020.03.07-15.06.00:305][923]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-15.06.00:307][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002130s)
+[2020.03.07-15.06.00:309][923]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-15.06.00:309][923]LogPlayLevel: PIE: World Init took: (0.001841s)
+[2020.03.07-15.06.00:309][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.004138s)
+[2020.03.07-15.06.00:345][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.03.07-15.06.00:348][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-15.06.00:348][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-15.06.00:348][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-15.06.00:348][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-15.06.00:348][923]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-15.06.00:348][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-15.06.00:348][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-15.06.00:348][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-15.06.00:348][923]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-15.06.00:348][923]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-15.06.00:364][923]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-15.06.00:364][923]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.06.00:364][923]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-15.06.00:364][923]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-15.06.00:364][923]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-15.06.00:364][923]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-15.06.00:364][923]LogAudioMixer: Display: Channel Order:
+[2020.03.07-15.06.00:364][923]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-15.06.00:364][923]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-15.06.00:375][923]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.06.00:377][923]LogInit: FAudioDevice initialized.
+[2020.03.07-15.06.00:409][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.06.00:410][923]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-15.06.00:411][923]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.03.07-12.06.00
+[2020.03.07-15.06.00:411][923]LogWorld: Bringing up level for play took: 0.000791
+[2020.03.07-15.06.00:412][923]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2020.03.07-15.06.00:417][923]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.628
+[2020.03.07-15.06.10:604][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.06.10:604][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.06.10:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.06.10:605][  0]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-15.06.10:621][  0]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-15.06.10:631][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.06.10:631][  0]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.06.10:631][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.06.10:640][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-15.06.10:645][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.06.10:683][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.06.10:689][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.03.07-15.06.10:711][  2]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.03.07-15.06.12:908][248]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.06.12:908][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.06.44:126][741]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.03.07-15.06.45:559][884]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.03.07-15.07.06:663][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.03.07-15.33.59:576][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/game/character/blueprint/MainCharacter.MainCharacter
+[2020.03.07-15.34.34:806][877]BlueprintLog: New page: Compile MainCharacter
+[2020.03.07-15.34.35:075][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.03.07-15.34.35:580][900]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainCharacter24BE7F454719D34A8454C6BA7C276395.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/blueprint/MainCharacter.uasset'
+[2020.03.07-15.34.35:601][900]AssetCheck: New page: Asset Save: MainCharacter
+[2020.03.07-15.34.35:601][900]LogContentValidation: Display: Validating Blueprint /Game/game/character/blueprint/MainCharacter.MainCharacter
+[2020.03.07-15.34.36:189][933]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-15.34.36:208][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-15.34.36:208][933]PIE: New page: PIE session: MainMap (Mar 7, 2020, 9:34:36 AM)
+[2020.03.07-15.34.36:208][933]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-15.34.36:210][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002045s)
+[2020.03.07-15.34.36:212][933]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-15.34.36:212][933]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2020.03.07-15.34.36:212][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.003791s)
+[2020.03.07-15.34.36:250][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.03.07-15.34.36:252][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-15.34.36:252][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-15.34.36:252][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-15.34.36:252][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-15.34.36:252][933]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-15.34.36:252][933]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-15.34.36:252][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-15.34.36:252][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-15.34.36:252][933]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-15.34.36:253][933]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-15.34.36:271][933]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-15.34.36:271][933]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.34.36:271][933]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-15.34.36:271][933]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-15.34.36:271][933]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-15.34.36:271][933]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-15.34.36:271][933]LogAudioMixer: Display: Channel Order:
+[2020.03.07-15.34.36:271][933]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-15.34.36:271][933]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-15.34.36:284][933]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.34.36:286][933]LogInit: FAudioDevice initialized.
+[2020.03.07-15.34.36:342][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.34.36:342][933]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-15.34.36:344][933]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-12.34.36
+[2020.03.07-15.34.36:344][933]LogWorld: Bringing up level for play took: 0.000820
+[2020.03.07-15.34.36:344][933]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2020.03.07-15.34.36:352][933]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.563
+[2020.03.07-15.34.45:790][496]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.34.45:790][496]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.34.45:790][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.34.45:791][496]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-15.34.45:807][496]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-15.34.45:812][496]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.34.45:812][496]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.34.45:813][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.34.45:826][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-15.34.45:830][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.34.45:864][496]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.34.45:873][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.03.07-15.34.45:901][498]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.03.07-15.35.10:211][934]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.35.10:211][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.39.59:270][249]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\josec\Downloads\Walking.fbx)
+[2020.03.07-15.39.59:287][249]LogFbx: Loading FBX Scene from C:\Users\josec\Downloads\Walking.fbx
+[2020.03.07-15.39.59:314][249]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.07-15.40.06:000][249]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(0) Hips
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(1) Spine
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(2) Spine1
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(3) Spine2
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(4) Neck
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(5) Neck1
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(6) Head
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(7) HeadTop_End
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(8) LeftShoulder
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(9) LeftArm
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(10) LeftForeArm
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(11) LeftHand
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2020.03.07-15.40.07:103][249]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(16) LeftHandThumb5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(17) LeftHandMiddle1
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(18) LeftHandMiddle2
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(19) LeftHandMiddle3
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(20) LeftHandMiddle4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(21) LeftHandMiddle5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(26) LeftHandIndex5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(27) LeftHandRing1
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(28) LeftHandRing2
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(29) LeftHandRing3
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(30) LeftHandRing4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(31) LeftHandRing5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(32) LeftHandPinky1
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(33) LeftHandPinky2
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(34) LeftHandPinky3
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(35) LeftHandPinky4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(36) LeftHandPinky5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(37) RightShoulder
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(38) RightArm
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(39) RightForeArm
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(40) RightHand
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(41) RightHandThumb1
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(42) RightHandThumb2
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(43) RightHandThumb3
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(44) RightHandThumb4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(45) RightHandThumb5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(46) RightHandIndex1
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(47) RightHandIndex2
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(48) RightHandIndex3
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(49) RightHandIndex4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(50) RightHandIndex5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(51) RightHandMiddle1
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(52) RightHandMiddle2
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(53) RightHandMiddle3
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(54) RightHandMiddle4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(55) RightHandMiddle5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(56) RightHandRing1
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(57) RightHandRing2
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(58) RightHandRing3
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(59) RightHandRing4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(60) RightHandRing5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(61) RightHandPinky1
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(62) RightHandPinky2
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(63) RightHandPinky3
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(64) RightHandPinky4
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(65) RightHandPinky5
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(66) LeftUpLeg
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(67) LeftLeg
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(68) LeftFoot
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(69) LeftToeBase
+[2020.03.07-15.40.07:104][249]LogFbx: SortedLinks :(70) LeftFootToeBase_End
+[2020.03.07-15.40.07:105][249]LogFbx: SortedLinks :(71) RightUpLeg
+[2020.03.07-15.40.07:105][249]LogFbx: SortedLinks :(72) RightLeg
+[2020.03.07-15.40.07:105][249]LogFbx: SortedLinks :(73) RightFoot
+[2020.03.07-15.40.07:105][249]LogFbx: SortedLinks :(74) RightToeBase
+[2020.03.07-15.40.07:105][249]LogFbx: SortedLinks :(75) RightFootToeBase_End
+[2020.03.07-15.40.07:113][249]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.07-15.40.07:119][249]LogLinker: Failed to load '/Game/game/character/animation/Walking': Can't find file.
+[2020.03.07-15.40.07:119][249]LogLinker: Failed to load '/Game/game/character/animation/Walking': Can't find file.
+[2020.03.07-15.40.07:489][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/game/character/animation/Walking.Walking
+[2020.03.07-15.40.07:502][249]LogAnimationCompression: Recompressing (AnimSequence /Game/game/character/animation/Walking.Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-15.40.07:699][249]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\josec\Downloads\Idle.fbx)
+[2020.03.07-15.40.07:731][249]LogFbx: Loading FBX Scene from C:\Users\josec\Downloads\Idle.fbx
+[2020.03.07-15.40.07:760][249]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(0) Hips
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(1) Spine
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(2) Spine1
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(3) Spine2
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(4) Neck
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(5) Neck1
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(6) Head
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(7) HeadTop_End
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(8) LeftShoulder
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(9) LeftArm
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(10) LeftForeArm
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(11) LeftHand
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(16) LeftHandThumb5
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(17) LeftHandMiddle1
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(18) LeftHandMiddle2
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(19) LeftHandMiddle3
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(20) LeftHandMiddle4
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(21) LeftHandMiddle5
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(26) LeftHandIndex5
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(27) LeftHandRing1
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(28) LeftHandRing2
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(29) LeftHandRing3
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(30) LeftHandRing4
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(31) LeftHandRing5
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(32) LeftHandPinky1
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(33) LeftHandPinky2
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(34) LeftHandPinky3
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(35) LeftHandPinky4
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(36) LeftHandPinky5
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(37) RightShoulder
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(38) RightArm
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(39) RightForeArm
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(40) RightHand
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(41) RightHandThumb1
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(42) RightHandThumb2
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(43) RightHandThumb3
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(44) RightHandThumb4
+[2020.03.07-15.40.07:766][249]LogFbx: SortedLinks :(45) RightHandThumb5
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(46) RightHandIndex1
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(47) RightHandIndex2
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(48) RightHandIndex3
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(49) RightHandIndex4
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(50) RightHandIndex5
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(51) RightHandMiddle1
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(52) RightHandMiddle2
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(53) RightHandMiddle3
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(54) RightHandMiddle4
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(55) RightHandMiddle5
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(56) RightHandRing1
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(57) RightHandRing2
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(58) RightHandRing3
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(59) RightHandRing4
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(60) RightHandRing5
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(61) RightHandPinky1
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(62) RightHandPinky2
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(63) RightHandPinky3
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(64) RightHandPinky4
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(65) RightHandPinky5
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(66) LeftUpLeg
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(67) LeftLeg
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(68) LeftFoot
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(69) LeftToeBase
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(70) LeftFootToeBase_End
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(71) RightUpLeg
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(72) RightLeg
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(73) RightFoot
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(74) RightToeBase
+[2020.03.07-15.40.07:767][249]LogFbx: SortedLinks :(75) RightFootToeBase_End
+[2020.03.07-15.40.07:768][249]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.07-15.40.07:770][249]LogLinker: Failed to load '/Game/game/character/animation/Idle': Can't find file.
+[2020.03.07-15.40.07:770][249]LogLinker: Failed to load '/Game/game/character/animation/Idle': Can't find file.
+[2020.03.07-15.40.08:607][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/game/character/animation/Idle.Idle
+[2020.03.07-15.40.08:607][249]LogAnimationCompression: Recompressing (AnimSequence /Game/game/character/animation/Idle.Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-15.40.08:629][249]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\josec\Downloads\Right Strafe Run.fbx)
+[2020.03.07-15.40.08:662][249]LogFbx: Loading FBX Scene from C:\Users\josec\Downloads\Right Strafe Run.fbx
+[2020.03.07-15.40.08:693][249]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(0) Hips
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(1) Spine
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(2) Spine1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(3) Spine2
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(4) Neck
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(5) Neck1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(6) Head
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(7) HeadTop_End
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(8) LeftShoulder
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(9) LeftArm
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(10) LeftForeArm
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(11) LeftHand
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(16) LeftHandThumb5
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(17) LeftHandMiddle1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(18) LeftHandMiddle2
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(19) LeftHandMiddle3
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(20) LeftHandMiddle4
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(21) LeftHandMiddle5
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(26) LeftHandIndex5
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(27) LeftHandRing1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(28) LeftHandRing2
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(29) LeftHandRing3
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(30) LeftHandRing4
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(31) LeftHandRing5
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(32) LeftHandPinky1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(33) LeftHandPinky2
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(34) LeftHandPinky3
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(35) LeftHandPinky4
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(36) LeftHandPinky5
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(37) RightShoulder
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(38) RightArm
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(39) RightForeArm
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(40) RightHand
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(41) RightHandThumb1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(42) RightHandThumb2
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(43) RightHandThumb3
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(44) RightHandThumb4
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(45) RightHandThumb5
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(46) RightHandIndex1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(47) RightHandIndex2
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(48) RightHandIndex3
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(49) RightHandIndex4
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(50) RightHandIndex5
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(51) RightHandMiddle1
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(52) RightHandMiddle2
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(53) RightHandMiddle3
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(54) RightHandMiddle4
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(55) RightHandMiddle5
+[2020.03.07-15.40.08:698][249]LogFbx: SortedLinks :(56) RightHandRing1
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(57) RightHandRing2
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(58) RightHandRing3
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(59) RightHandRing4
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(60) RightHandRing5
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(61) RightHandPinky1
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(62) RightHandPinky2
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(63) RightHandPinky3
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(64) RightHandPinky4
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(65) RightHandPinky5
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(66) LeftUpLeg
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(67) LeftLeg
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(68) LeftFoot
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(69) LeftToeBase
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(70) LeftFootToeBase_End
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(71) RightUpLeg
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(72) RightLeg
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(73) RightFoot
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(74) RightToeBase
+[2020.03.07-15.40.08:699][249]LogFbx: SortedLinks :(75) RightFootToeBase_End
+[2020.03.07-15.40.08:699][249]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.07-15.40.08:699][249]LogLinker: Failed to load '/Game/game/character/animation/Right_Strafe_Run': Can't find file.
+[2020.03.07-15.40.08:700][249]LogLinker: Failed to load '/Game/game/character/animation/Right_Strafe_Run': Can't find file.
+[2020.03.07-15.40.08:966][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/game/character/animation/Right_Strafe_Run.Right_Strafe_Run
+[2020.03.07-15.40.08:966][249]LogAnimationCompression: Recompressing (AnimSequence /Game/game/character/animation/Right_Strafe_Run.Right_Strafe_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-15.40.08:985][249]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\josec\Downloads\Left Strafe Run.fbx)
+[2020.03.07-15.40.09:001][249]LogFbx: Loading FBX Scene from C:\Users\josec\Downloads\Left Strafe Run.fbx
+[2020.03.07-15.40.09:030][249]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(0) Hips
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(1) Spine
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(2) Spine1
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(3) Spine2
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(4) Neck
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(5) Neck1
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(6) Head
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(7) HeadTop_End
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(8) LeftShoulder
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(9) LeftArm
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(10) LeftForeArm
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(11) LeftHand
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(16) LeftHandThumb5
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(17) LeftHandMiddle1
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(18) LeftHandMiddle2
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(19) LeftHandMiddle3
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(20) LeftHandMiddle4
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(21) LeftHandMiddle5
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(26) LeftHandIndex5
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(27) LeftHandRing1
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(28) LeftHandRing2
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(29) LeftHandRing3
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(30) LeftHandRing4
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(31) LeftHandRing5
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(32) LeftHandPinky1
+[2020.03.07-15.40.09:035][249]LogFbx: SortedLinks :(33) LeftHandPinky2
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(34) LeftHandPinky3
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(35) LeftHandPinky4
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(36) LeftHandPinky5
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(37) RightShoulder
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(38) RightArm
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(39) RightForeArm
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(40) RightHand
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(41) RightHandThumb1
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(42) RightHandThumb2
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(43) RightHandThumb3
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(44) RightHandThumb4
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(45) RightHandThumb5
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(46) RightHandIndex1
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(47) RightHandIndex2
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(48) RightHandIndex3
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(49) RightHandIndex4
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(50) RightHandIndex5
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(51) RightHandMiddle1
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(52) RightHandMiddle2
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(53) RightHandMiddle3
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(54) RightHandMiddle4
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(55) RightHandMiddle5
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(56) RightHandRing1
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(57) RightHandRing2
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(58) RightHandRing3
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(59) RightHandRing4
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(60) RightHandRing5
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(61) RightHandPinky1
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(62) RightHandPinky2
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(63) RightHandPinky3
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(64) RightHandPinky4
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(65) RightHandPinky5
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(66) LeftUpLeg
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(67) LeftLeg
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(68) LeftFoot
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(69) LeftToeBase
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(70) LeftFootToeBase_End
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(71) RightUpLeg
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(72) RightLeg
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(73) RightFoot
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(74) RightToeBase
+[2020.03.07-15.40.09:036][249]LogFbx: SortedLinks :(75) RightFootToeBase_End
+[2020.03.07-15.40.09:037][249]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.07-15.40.09:037][249]LogLinker: Failed to load '/Game/game/character/animation/Left_Strafe_Run': Can't find file.
+[2020.03.07-15.40.09:037][249]LogLinker: Failed to load '/Game/game/character/animation/Left_Strafe_Run': Can't find file.
+[2020.03.07-15.40.09:951][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/game/character/animation/Left_Strafe_Run.Left_Strafe_Run
+[2020.03.07-15.40.09:951][249]LogAnimationCompression: Recompressing (AnimSequence /Game/game/character/animation/Left_Strafe_Run.Left_Strafe_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-15.40.09:972][249]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\josec\Downloads\Standard Run.fbx)
+[2020.03.07-15.40.10:012][249]LogFbx: Loading FBX Scene from C:\Users\josec\Downloads\Standard Run.fbx
+[2020.03.07-15.40.10:043][249]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.07-15.40.10:047][249]LogFbx: SortedLinks :(0) Hips
+[2020.03.07-15.40.10:047][249]LogFbx: SortedLinks :(1) Spine
+[2020.03.07-15.40.10:047][249]LogFbx: SortedLinks :(2) Spine1
+[2020.03.07-15.40.10:047][249]LogFbx: SortedLinks :(3) Spine2
+[2020.03.07-15.40.10:047][249]LogFbx: SortedLinks :(4) Neck
+[2020.03.07-15.40.10:047][249]LogFbx: SortedLinks :(5) Neck1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(6) Head
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(7) HeadTop_End
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(8) LeftShoulder
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(9) LeftArm
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(10) LeftForeArm
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(11) LeftHand
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(16) LeftHandThumb5
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(17) LeftHandMiddle1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(18) LeftHandMiddle2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(19) LeftHandMiddle3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(20) LeftHandMiddle4
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(21) LeftHandMiddle5
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(26) LeftHandIndex5
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(27) LeftHandRing1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(28) LeftHandRing2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(29) LeftHandRing3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(30) LeftHandRing4
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(31) LeftHandRing5
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(32) LeftHandPinky1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(33) LeftHandPinky2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(34) LeftHandPinky3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(35) LeftHandPinky4
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(36) LeftHandPinky5
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(37) RightShoulder
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(38) RightArm
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(39) RightForeArm
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(40) RightHand
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(41) RightHandThumb1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(42) RightHandThumb2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(43) RightHandThumb3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(44) RightHandThumb4
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(45) RightHandThumb5
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(46) RightHandIndex1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(47) RightHandIndex2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(48) RightHandIndex3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(49) RightHandIndex4
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(50) RightHandIndex5
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(51) RightHandMiddle1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(52) RightHandMiddle2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(53) RightHandMiddle3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(54) RightHandMiddle4
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(55) RightHandMiddle5
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(56) RightHandRing1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(57) RightHandRing2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(58) RightHandRing3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(59) RightHandRing4
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(60) RightHandRing5
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(61) RightHandPinky1
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(62) RightHandPinky2
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(63) RightHandPinky3
+[2020.03.07-15.40.10:048][249]LogFbx: SortedLinks :(64) RightHandPinky4
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(65) RightHandPinky5
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(66) LeftUpLeg
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(67) LeftLeg
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(68) LeftFoot
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(69) LeftToeBase
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(70) LeftFootToeBase_End
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(71) RightUpLeg
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(72) RightLeg
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(73) RightFoot
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(74) RightToeBase
+[2020.03.07-15.40.10:049][249]LogFbx: SortedLinks :(75) RightFootToeBase_End
+[2020.03.07-15.40.10:049][249]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.07-15.40.10:051][249]LogLinker: Failed to load '/Game/game/character/animation/Standard_Run': Can't find file.
+[2020.03.07-15.40.10:051][249]LogLinker: Failed to load '/Game/game/character/animation/Standard_Run': Can't find file.
+[2020.03.07-15.40.17:707][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/game/character/animation/Standard_Run.Standard_Run
+[2020.03.07-15.40.17:707][249]LogAnimationCompression: Recompressing (AnimSequence /Game/game/character/animation/Standard_Run.Standard_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-15.40.17:767][249]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\josec\Downloads\Right Strafe Walking.fbx)
+[2020.03.07-15.40.17:795][249]LogFbx: Loading FBX Scene from C:\Users\josec\Downloads\Right Strafe Walking.fbx
+[2020.03.07-15.40.17:824][249]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(0) Hips
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(1) Spine
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(2) Spine1
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(3) Spine2
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(4) Neck
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(5) Neck1
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(6) Head
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(7) HeadTop_End
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(8) LeftShoulder
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(9) LeftArm
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(10) LeftForeArm
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(11) LeftHand
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(16) LeftHandThumb5
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(17) LeftHandMiddle1
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(18) LeftHandMiddle2
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(19) LeftHandMiddle3
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(20) LeftHandMiddle4
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(21) LeftHandMiddle5
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(26) LeftHandIndex5
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(27) LeftHandRing1
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(28) LeftHandRing2
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(29) LeftHandRing3
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(30) LeftHandRing4
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(31) LeftHandRing5
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(32) LeftHandPinky1
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(33) LeftHandPinky2
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(34) LeftHandPinky3
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(35) LeftHandPinky4
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(36) LeftHandPinky5
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(37) RightShoulder
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(38) RightArm
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(39) RightForeArm
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(40) RightHand
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(41) RightHandThumb1
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(42) RightHandThumb2
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(43) RightHandThumb3
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(44) RightHandThumb4
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(45) RightHandThumb5
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(46) RightHandIndex1
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(47) RightHandIndex2
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(48) RightHandIndex3
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(49) RightHandIndex4
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(50) RightHandIndex5
+[2020.03.07-15.40.17:829][249]LogFbx: SortedLinks :(51) RightHandMiddle1
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(52) RightHandMiddle2
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(53) RightHandMiddle3
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(54) RightHandMiddle4
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(55) RightHandMiddle5
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(56) RightHandRing1
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(57) RightHandRing2
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(58) RightHandRing3
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(59) RightHandRing4
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(60) RightHandRing5
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(61) RightHandPinky1
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(62) RightHandPinky2
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(63) RightHandPinky3
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(64) RightHandPinky4
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(65) RightHandPinky5
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(66) LeftUpLeg
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(67) LeftLeg
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(68) LeftFoot
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(69) LeftToeBase
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(70) LeftFootToeBase_End
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(71) RightUpLeg
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(72) RightLeg
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(73) RightFoot
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(74) RightToeBase
+[2020.03.07-15.40.17:830][249]LogFbx: SortedLinks :(75) RightFootToeBase_End
+[2020.03.07-15.40.17:830][249]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.07-15.40.17:830][249]LogLinker: Failed to load '/Game/game/character/animation/Right_Strafe_Walking': Can't find file.
+[2020.03.07-15.40.17:831][249]LogLinker: Failed to load '/Game/game/character/animation/Right_Strafe_Walking': Can't find file.
+[2020.03.07-15.40.18:129][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/game/character/animation/Right_Strafe_Walking.Right_Strafe_Walking
+[2020.03.07-15.40.18:129][249]LogAnimationCompression: Recompressing (AnimSequence /Game/game/character/animation/Right_Strafe_Walking.Right_Strafe_Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-15.40.18:148][249]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\josec\Downloads\Left Strafe Walking.fbx)
+[2020.03.07-15.40.18:161][249]LogFbx: Loading FBX Scene from C:\Users\josec\Downloads\Left Strafe Walking.fbx
+[2020.03.07-15.40.18:190][249]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(0) Hips
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(1) Spine
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(2) Spine1
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(3) Spine2
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(4) Neck
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(5) Neck1
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(6) Head
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(7) HeadTop_End
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(8) LeftShoulder
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(9) LeftArm
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(10) LeftForeArm
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(11) LeftHand
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(16) LeftHandThumb5
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(17) LeftHandMiddle1
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(18) LeftHandMiddle2
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(19) LeftHandMiddle3
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(20) LeftHandMiddle4
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(21) LeftHandMiddle5
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2020.03.07-15.40.18:195][249]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(26) LeftHandIndex5
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(27) LeftHandRing1
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(28) LeftHandRing2
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(29) LeftHandRing3
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(30) LeftHandRing4
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(31) LeftHandRing5
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(32) LeftHandPinky1
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(33) LeftHandPinky2
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(34) LeftHandPinky3
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(35) LeftHandPinky4
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(36) LeftHandPinky5
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(37) RightShoulder
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(38) RightArm
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(39) RightForeArm
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(40) RightHand
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(41) RightHandThumb1
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(42) RightHandThumb2
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(43) RightHandThumb3
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(44) RightHandThumb4
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(45) RightHandThumb5
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(46) RightHandIndex1
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(47) RightHandIndex2
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(48) RightHandIndex3
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(49) RightHandIndex4
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(50) RightHandIndex5
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(51) RightHandMiddle1
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(52) RightHandMiddle2
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(53) RightHandMiddle3
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(54) RightHandMiddle4
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(55) RightHandMiddle5
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(56) RightHandRing1
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(57) RightHandRing2
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(58) RightHandRing3
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(59) RightHandRing4
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(60) RightHandRing5
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(61) RightHandPinky1
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(62) RightHandPinky2
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(63) RightHandPinky3
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(64) RightHandPinky4
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(65) RightHandPinky5
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(66) LeftUpLeg
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(67) LeftLeg
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(68) LeftFoot
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(69) LeftToeBase
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(70) LeftFootToeBase_End
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(71) RightUpLeg
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(72) RightLeg
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(73) RightFoot
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(74) RightToeBase
+[2020.03.07-15.40.18:196][249]LogFbx: SortedLinks :(75) RightFootToeBase_End
+[2020.03.07-15.40.18:197][249]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.07-15.40.18:197][249]LogLinker: Failed to load '/Game/game/character/animation/Left_Strafe_Walking': Can't find file.
+[2020.03.07-15.40.18:197][249]LogLinker: Failed to load '/Game/game/character/animation/Left_Strafe_Walking': Can't find file.
+[2020.03.07-15.40.18:510][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/game/character/animation/Left_Strafe_Walking.Left_Strafe_Walking
+[2020.03.07-15.40.18:510][249]LogAnimationCompression: Recompressing (AnimSequence /Game/game/character/animation/Left_Strafe_Walking.Left_Strafe_Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-15.40.38:482][428]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/Idle4DDDC4C84A11A269FC45F9B1976EDE8F.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationDefault/Idle.uasset'
+[2020.03.07-15.40.38:515][428]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/Left_Strafe_Run2C7BAFE049798B8C95B1A4BE3CA938A5.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationDefault/Left_Strafe_Run.uasset'
+[2020.03.07-15.40.38:548][428]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/Left_Strafe_Walking24C0D4DF4F45B7FDFC86539D3FC1C01B.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationDefault/Left_Strafe_Walking.uasset'
+[2020.03.07-15.40.38:579][428]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/Right_Strafe_Run262DF5334B87B982406BD69CB9CCE596.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationDefault/Right_Strafe_Run.uasset'
+[2020.03.07-15.40.38:610][428]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/Right_Strafe_WalkingE0F6A74E4670F4C7EAD4F08C790AADA6.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationDefault/Right_Strafe_Walking.uasset'
+[2020.03.07-15.40.38:660][428]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/Standard_Run9BD7373940F4A5A87888B2802CB92064.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationDefault/Standard_Run.uasset'
+[2020.03.07-15.40.38:692][428]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/Walking30BA08EC4AB85B3CD92F01BE05F7AA35.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationDefault/Walking.uasset'
+[2020.03.07-15.40.39:706][428]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.03.07-15.40.39:744][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.03.07-15.40.39:775][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.03.07-15.40.39:809][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.03.07-15.40.39:843][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.03.07-15.40.39:874][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.03.07-15.40.39:910][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.03.07-15.40.39:950][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.03.07-15.40.39:981][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.03.07-15.40.40:061][428]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.07-15.40.40:061][428]LogContentValidation: Display: Validating AnimSequence /Game/game/character/animation/animationDefault/Idle.Idle
+[2020.03.07-15.40.40:061][428]LogContentValidation: Display: Validating AnimSequence /Game/game/character/animation/animationDefault/Left_Strafe_Run.Left_Strafe_Run
+[2020.03.07-15.40.40:061][428]LogContentValidation: Display: Validating AnimSequence /Game/game/character/animation/animationDefault/Left_Strafe_Walking.Left_Strafe_Walking
+[2020.03.07-15.40.40:061][428]LogContentValidation: Display: Validating AnimSequence /Game/game/character/animation/animationDefault/Right_Strafe_Run.Right_Strafe_Run
+[2020.03.07-15.40.40:061][428]LogContentValidation: Display: Validating AnimSequence /Game/game/character/animation/animationDefault/Right_Strafe_Walking.Right_Strafe_Walking
+[2020.03.07-15.40.40:061][428]LogContentValidation: Display: Validating AnimSequence /Game/game/character/animation/animationDefault/Standard_Run.Standard_Run
+[2020.03.07-15.40.40:061][428]LogContentValidation: Display: Validating AnimSequence /Game/game/character/animation/animationDefault/Walking.Walking
+[2020.03.07-15.40.48:844][127]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.03.07-15.40.48:879][127]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.03.07-15.41.01:562][127]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.03.07-15.41.12:577][290]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint
+[2020.03.07-15.41.12:686][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.07-15.41.13:121][290]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.07-15.41.16:420][581]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.41.16:420][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.41.16:424][581]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.41.16:424][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.41.16:607][581]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.41.16:607][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.41.21:835][847]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.03.07-15.41.28:547][476]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/game/character/animation/animationBlueprint/MainBlendSpace.MainBlendSpace
+[2020.03.07-15.41.28:841][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.07-15.41.28:914][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.07-15.41.29:658][476]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.07-15.43.25:710][676]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.43.25:711][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.44.59:266][402]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.44.59:266][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.45.49:102][351]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainBlendSpace9290039D48108E9EC51E2D9F0D1C0446.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationBlueprint/MainBlendSpace.uasset'
+[2020.03.07-15.45.49:132][351]AssetCheck: New page: Asset Save: MainBlendSpace
+[2020.03.07-15.45.49:132][351]LogContentValidation: Display: Validating BlendSpace /Game/game/character/animation/animationBlueprint/MainBlendSpace.MainBlendSpace
+[2020.03.07-15.45.52:560][667]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.45.52:560][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.45.52:814][667]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.45.52:814][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.45.55:162][849]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint
+[2020.03.07-15.45.55:172][849]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.07-15.45.55:549][849]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.07-15.46.55:909][438]BlueprintLog: New page: Compile MainAnimationBlueprint
+[2020.03.07-15.46.56:010][438]LogBlueprint: Warning: [Compiler MainAnimationBlueprint] Entry node  New State Machine  is not connected to state
+[2020.03.07-15.46.56:014][438]LogBlueprint: Warning: [Compiler MainAnimationBlueprint] There was no entry state connection in  New State Machine
+[2020.03.07-15.46.56:411][438]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.03.07-15.48.01:980][548]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/game/character/animation/animationBlueprint/MainBlendSpace.MainBlendSpace
+[2020.03.07-15.48.01:984][548]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.07-15.48.02:020][548]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.07-15.48.02:400][548]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.07-15.48.06:161][909]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.48.06:161][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.48.06:369][909]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.48.06:369][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.49.10:870][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.03.07-15.49.10:874][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMap' took 0.080
+[2020.03.07-15.49.10:875][ 18]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/character/animation/animationBlueprint/MainAnimationBlueprint] ([1] browsable assets)...
+[2020.03.07-15.49.10:890][ 18]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint]
+[2020.03.07-15.49.10:890][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/character/animation/animationBlueprint/MainAnimationBlueprint]
+[2020.03.07-15.49.11:078][ 18]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainAnimationBlueprint_Auto2F22232A34809F39726C66A9855374554.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/Autosaves/Game/game/character/animation/animationBlueprint/MainAnimationBlueprint_Auto2.uasset'
+[2020.03.07-15.49.11:079][ 18]LogFileHelpers: Auto-saving content packages took 0.205
+[2020.03.07-15.50.09:329][887]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.07-15.50.54:782][124]BlueprintLog: New page: Compile MainAnimationBlueprint
+[2020.03.07-15.50.55:215][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.03.07-15.50.55:836][156]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainAnimationBlueprint14EA9F164A3232B3E6A5EFBC4A881906.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationBlueprint/MainAnimationBlueprint.uasset'
+[2020.03.07-15.50.55:861][156]AssetCheck: New page: Asset Save: MainAnimationBlueprint
+[2020.03.07-15.50.55:862][156]LogContentValidation: Display: Validating AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint
+[2020.03.07-15.51.06:512][545]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-15.51.06:528][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-15.51.06:528][545]PIE: New page: PIE session: MainMap (Mar 7, 2020, 9:51:06 AM)
+[2020.03.07-15.51.06:529][545]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-15.51.06:531][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002078s)
+[2020.03.07-15.51.06:532][545]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-15.51.06:532][545]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2020.03.07-15.51.06:533][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.003873s)
+[2020.03.07-15.51.06:569][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.03.07-15.51.06:570][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-15.51.06:570][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-15.51.06:570][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-15.51.06:570][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-15.51.06:571][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-15.51.06:571][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-15.51.06:571][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-15.51.06:571][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-15.51.06:571][545]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-15.51.06:571][545]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-15.51.06:588][545]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-15.51.06:588][545]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.51.06:588][545]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-15.51.06:588][545]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-15.51.06:588][545]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-15.51.06:588][545]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-15.51.06:588][545]LogAudioMixer: Display: Channel Order:
+[2020.03.07-15.51.06:588][545]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-15.51.06:588][545]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-15.51.06:602][545]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.51.06:604][545]LogInit: FAudioDevice initialized.
+[2020.03.07-15.51.06:664][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.51.06:664][545]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-15.51.06:665][545]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-12.51.06
+[2020.03.07-15.51.06:666][545]LogWorld: Bringing up level for play took: 0.000715
+[2020.03.07-15.51.06:666][545]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2020.03.07-15.51.06:671][545]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.882
+[2020.03.07-15.51.07:768][607]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.51.07:769][607]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.51.07:769][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.51.07:769][607]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-15.51.07:787][607]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-15.51.07:793][607]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.51.07:793][607]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.51.07:793][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.51.07:802][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-15.51.07:808][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.51.07:842][607]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.51.07:849][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.07-15.51.07:880][609]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2020.03.07-15.55.39:097][365]BlueprintLog: New page: Compile MainAnimationBlueprint
+[2020.03.07-15.55.39:375][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.03.07-15.55.40:295][414]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainAnimationBlueprint3D0CCFC2425664AC2EF1258838661D59.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationBlueprint/MainAnimationBlueprint.uasset'
+[2020.03.07-15.55.40:315][414]AssetCheck: New page: Asset Save: MainAnimationBlueprint
+[2020.03.07-15.55.40:315][414]LogContentValidation: Display: Validating AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint
+[2020.03.07-15.55.59:767][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-15.55.59:785][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-15.55.59:785][ 79]PIE: New page: PIE session: MainMap (Mar 7, 2020, 9:55:59 AM)
+[2020.03.07-15.55.59:785][ 79]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-15.55.59:788][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002823s)
+[2020.03.07-15.55.59:789][ 79]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-15.55.59:789][ 79]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2020.03.07-15.55.59:790][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.004563s)
+[2020.03.07-15.55.59:828][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.03.07-15.55.59:829][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-15.55.59:829][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-15.55.59:829][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-15.55.59:829][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-15.55.59:829][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-15.55.59:829][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-15.55.59:829][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-15.55.59:829][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-15.55.59:830][ 79]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-15.55.59:830][ 79]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-15.55.59:846][ 79]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-15.55.59:847][ 79]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.55.59:847][ 79]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-15.55.59:847][ 79]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-15.55.59:847][ 79]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-15.55.59:847][ 79]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-15.55.59:847][ 79]LogAudioMixer: Display: Channel Order:
+[2020.03.07-15.55.59:847][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-15.55.59:847][ 79]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-15.55.59:857][ 79]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.55.59:860][ 79]LogInit: FAudioDevice initialized.
+[2020.03.07-15.55.59:915][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.55.59:916][ 79]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-15.55.59:917][ 79]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-12.55.59
+[2020.03.07-15.55.59:917][ 79]LogWorld: Bringing up level for play took: 0.000757
+[2020.03.07-15.55.59:917][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2020.03.07-15.55.59:923][ 79]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.135
+[2020.03.07-15.56.00:508][110]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.00:508][110]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.00:509][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.56.00:509][110]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-15.56.00:527][110]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-15.56.00:534][110]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.00:534][110]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.56.00:534][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.56.00:550][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-15.56.00:558][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.56.00:592][110]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.00:602][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.03.07-15.56.00:619][111]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2020.03.07-15.56.10:935][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/game/character/blueprint/MainCharacter.MainCharacter
+[2020.03.07-15.56.15:404][820]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.07-15.56.24:767][355]BlueprintLog: New page: Compile MainCharacter
+[2020.03.07-15.56.25:055][355]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.03.07-15.56.25:533][376]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainCharacterFD1C9D8B475E6EF9DF98C39A5F815346.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/blueprint/MainCharacter.uasset'
+[2020.03.07-15.56.25:552][376]AssetCheck: New page: Asset Save: MainCharacter
+[2020.03.07-15.56.25:552][376]LogContentValidation: Display: Validating Blueprint /Game/game/character/blueprint/MainCharacter.MainCharacter
+[2020.03.07-15.56.26:047][406]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-15.56.26:065][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-15.56.26:065][406]PIE: New page: PIE session: MainMap (Mar 7, 2020, 9:56:26 AM)
+[2020.03.07-15.56.26:065][406]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-15.56.26:066][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001999s)
+[2020.03.07-15.56.26:068][406]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-15.56.26:068][406]LogPlayLevel: PIE: World Init took: (0.001811s)
+[2020.03.07-15.56.26:068][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.003979s)
+[2020.03.07-15.56.26:106][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.03.07-15.56.26:107][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-15.56.26:107][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-15.56.26:107][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-15.56.26:107][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-15.56.26:107][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-15.56.26:107][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-15.56.26:107][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-15.56.26:107][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-15.56.26:107][406]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-15.56.26:107][406]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-15.56.26:122][406]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-15.56.26:122][406]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.56.26:122][406]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-15.56.26:122][406]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-15.56.26:122][406]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-15.56.26:122][406]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-15.56.26:122][406]LogAudioMixer: Display: Channel Order:
+[2020.03.07-15.56.26:122][406]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-15.56.26:122][406]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-15.56.26:136][406]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.56.26:137][406]LogInit: FAudioDevice initialized.
+[2020.03.07-15.56.26:181][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.56.26:181][406]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-15.56.26:183][406]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-12.56.26
+[2020.03.07-15.56.26:183][406]LogWorld: Bringing up level for play took: 0.000698
+[2020.03.07-15.56.26:183][406]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2020.03.07-15.56.26:188][406]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.4
+[2020.03.07-15.56.32:465][779]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.32:465][779]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.32:465][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.56.32:465][779]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-15.56.32:480][779]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-15.56.32:487][779]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.32:487][779]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.56.32:487][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.56.32:496][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-15.56.32:501][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.56.32:537][779]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.32:544][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.03.07-15.56.32:580][781]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2020.03.07-15.56.34:767][909]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.56.34:767][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.56.36:381][  1]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-15.56.36:398][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-15.56.36:398][  1]PIE: New page: PIE session: MainMap (Mar 7, 2020, 9:56:36 AM)
+[2020.03.07-15.56.36:399][  1]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-15.56.36:400][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002028s)
+[2020.03.07-15.56.36:403][  1]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-15.56.36:404][  1]LogPlayLevel: PIE: World Init took: (0.002121s)
+[2020.03.07-15.56.36:404][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.004308s)
+[2020.03.07-15.56.36:441][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.03.07-15.56.36:441][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-15.56.36:441][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-15.56.36:441][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-15.56.36:441][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-15.56.36:441][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-15.56.36:441][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-15.56.36:441][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-15.56.36:441][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-15.56.36:442][  1]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-15.56.36:442][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-15.56.36:457][  1]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-15.56.36:457][  1]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.56.36:457][  1]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-15.56.36:457][  1]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-15.56.36:457][  1]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-15.56.36:457][  1]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-15.56.36:457][  1]LogAudioMixer: Display: Channel Order:
+[2020.03.07-15.56.36:457][  1]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-15.56.36:457][  1]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-15.56.36:470][  1]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-15.56.36:472][  1]LogInit: FAudioDevice initialized.
+[2020.03.07-15.56.36:515][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.56.36:516][  1]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-15.56.36:517][  1]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-12.56.36
+[2020.03.07-15.56.36:517][  1]LogWorld: Bringing up level for play took: 0.000621
+[2020.03.07-15.56.36:517][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2020.03.07-15.56.36:522][  1]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.733
+[2020.03.07-15.56.39:678][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.39:679][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.39:679][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-15.56.39:679][187]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-15.56.39:696][187]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-15.56.39:703][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.39:703][187]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-15.56.39:703][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.56.39:709][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-15.56.39:716][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-15.56.39:754][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-15.56.39:762][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.03.07-15.56.39:790][189]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.03.07-16.00.38:451][ 90]BlueprintLog: New page: Compile MainAnimationBlueprint
+[2020.03.07-16.00.38:722][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.03.07-16.00.39:156][110]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainAnimationBlueprintDA9F2D5E44160C363560C0AC7BB86515.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationBlueprint/MainAnimationBlueprint.uasset'
+[2020.03.07-16.00.39:175][110]AssetCheck: New page: Asset Save: MainAnimationBlueprint
+[2020.03.07-16.00.39:175][110]LogContentValidation: Display: Validating AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint
+[2020.03.07-16.00.39:919][154]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-16.00.39:936][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-16.00.39:936][154]PIE: New page: PIE session: MainMap (Mar 7, 2020, 10:00:39 AM)
+[2020.03.07-16.00.39:936][154]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-16.00.39:938][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002005s)
+[2020.03.07-16.00.39:940][154]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-16.00.39:940][154]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2020.03.07-16.00.39:940][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.003650s)
+[2020.03.07-16.00.39:979][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.03.07-16.00.39:979][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-16.00.39:979][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-16.00.39:979][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-16.00.39:979][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-16.00.39:979][154]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-16.00.39:979][154]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-16.00.39:979][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-16.00.39:980][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-16.00.39:980][154]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-16.00.39:980][154]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-16.00.39:996][154]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-16.00.39:996][154]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.00.39:996][154]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-16.00.39:996][154]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-16.00.39:996][154]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-16.00.39:996][154]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-16.00.39:996][154]LogAudioMixer: Display: Channel Order:
+[2020.03.07-16.00.39:996][154]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-16.00.39:996][154]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-16.00.40:009][154]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.00.40:010][154]LogInit: FAudioDevice initialized.
+[2020.03.07-16.00.40:068][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.00.40:068][154]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-16.00.40:070][154]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-13.00.40
+[2020.03.07-16.00.40:070][154]LogWorld: Bringing up level for play took: 0.000799
+[2020.03.07-16.00.40:071][154]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2020.03.07-16.00.40:076][154]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.288
+[2020.03.07-16.00.59:624][322]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.00.59:624][322]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.00.59:625][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.00.59:625][322]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-16.00.59:642][322]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-16.00.59:648][322]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.00.59:649][322]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.00.59:649][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.00.59:656][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-16.00.59:661][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.00.59:695][322]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.00.59:704][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.03.07-16.00.59:726][323]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2020.03.07-16.01.13:870][614]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-16.01.13:887][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-16.01.13:887][614]PIE: New page: PIE session: MainMap (Mar 7, 2020, 10:01:13 AM)
+[2020.03.07-16.01.13:887][614]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-16.01.13:890][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002387s)
+[2020.03.07-16.01.13:891][614]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-16.01.13:892][614]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2020.03.07-16.01.13:892][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.004574s)
+[2020.03.07-16.01.13:928][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.03.07-16.01.13:929][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-16.01.13:929][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-16.01.13:929][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-16.01.13:929][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-16.01.13:929][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-16.01.13:929][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-16.01.13:929][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-16.01.13:929][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-16.01.13:930][614]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-16.01.13:930][614]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-16.01.13:947][614]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-16.01.13:947][614]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.01.13:947][614]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-16.01.13:947][614]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-16.01.13:947][614]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-16.01.13:947][614]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-16.01.13:947][614]LogAudioMixer: Display: Channel Order:
+[2020.03.07-16.01.13:947][614]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-16.01.13:947][614]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-16.01.13:958][614]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.01.13:960][614]LogInit: FAudioDevice initialized.
+[2020.03.07-16.01.14:017][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.01.14:018][614]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-16.01.14:019][614]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-13.01.14
+[2020.03.07-16.01.14:019][614]LogWorld: Bringing up level for play took: 0.000672
+[2020.03.07-16.01.14:020][614]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2020.03.07-16.01.14:026][614]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.238
+[2020.03.07-16.01.29:699][545]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.01.29:699][545]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.01.29:700][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.01.29:700][545]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-16.01.29:718][545]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-16.01.29:725][545]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.01.29:725][545]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.01.29:726][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.01.29:736][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-16.01.29:741][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.01.29:771][545]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.01.29:780][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.03.07-16.01.29:800][546]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2020.03.07-16.03.42:538][752]BlueprintLog: New page: Compile MainAnimationBlueprint
+[2020.03.07-16.03.42:796][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.03.07-16.03.43:204][769]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainAnimationBlueprint13A519024A78FDBBF16C2B9FE99C8FEC.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationBlueprint/MainAnimationBlueprint.uasset'
+[2020.03.07-16.03.43:221][769]AssetCheck: New page: Asset Save: MainAnimationBlueprint
+[2020.03.07-16.03.43:221][769]LogContentValidation: Display: Validating AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint
+[2020.03.07-16.03.44:037][818]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-16.03.44:054][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-16.03.44:054][818]PIE: New page: PIE session: MainMap (Mar 7, 2020, 10:03:44 AM)
+[2020.03.07-16.03.44:054][818]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-16.03.44:056][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002051s)
+[2020.03.07-16.03.44:058][818]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-16.03.44:058][818]LogPlayLevel: PIE: World Init took: (0.001795s)
+[2020.03.07-16.03.44:058][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.003967s)
+[2020.03.07-16.03.44:093][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.03.07-16.03.44:094][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-16.03.44:094][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-16.03.44:094][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-16.03.44:094][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-16.03.44:094][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-16.03.44:094][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-16.03.44:094][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-16.03.44:094][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-16.03.44:094][818]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-16.03.44:094][818]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-16.03.44:110][818]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-16.03.44:110][818]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.03.44:110][818]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-16.03.44:110][818]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-16.03.44:110][818]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-16.03.44:110][818]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-16.03.44:110][818]LogAudioMixer: Display: Channel Order:
+[2020.03.07-16.03.44:110][818]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-16.03.44:110][818]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-16.03.44:122][818]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.03.44:124][818]LogInit: FAudioDevice initialized.
+[2020.03.07-16.03.44:168][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.03.44:168][818]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-16.03.44:169][818]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-13.03.44
+[2020.03.07-16.03.44:169][818]LogWorld: Bringing up level for play took: 0.000719
+[2020.03.07-16.03.44:170][818]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2020.03.07-16.03.44:175][818]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.387
+[2020.03.07-16.03.59:976][762]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.03.59:976][762]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.03.59:977][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.03.59:977][762]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-16.03.59:995][762]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-16.04.00:002][762]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.04.00:002][762]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.04.00:003][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.04.00:018][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-16.04.00:023][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.04.00:062][762]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.04.00:070][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.03.07-16.04.00:091][763]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2020.03.07-16.05.31:539][343]BlueprintLog: New page: Compile MainAnimationBlueprint
+[2020.03.07-16.05.31:777][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.03.07-16.05.32:254][364]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainAnimationBlueprint33056A7742E410C08EC971884517786A.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationBlueprint/MainAnimationBlueprint.uasset'
+[2020.03.07-16.05.32:273][364]AssetCheck: New page: Asset Save: MainAnimationBlueprint
+[2020.03.07-16.05.32:273][364]LogContentValidation: Display: Validating AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint
+[2020.03.07-16.05.33:437][433]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-16.05.33:455][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-16.05.33:455][433]PIE: New page: PIE session: MainMap (Mar 7, 2020, 10:05:33 AM)
+[2020.03.07-16.05.33:455][433]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-16.05.33:457][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001991s)
+[2020.03.07-16.05.33:459][433]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-16.05.33:459][433]LogPlayLevel: PIE: World Init took: (0.001709s)
+[2020.03.07-16.05.33:459][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.003864s)
+[2020.03.07-16.05.33:496][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.03.07-16.05.33:496][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-16.05.33:496][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-16.05.33:496][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-16.05.33:496][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-16.05.33:496][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-16.05.33:496][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-16.05.33:497][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-16.05.33:497][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-16.05.33:498][433]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-16.05.33:498][433]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-16.05.33:513][433]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-16.05.33:513][433]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.05.33:513][433]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-16.05.33:513][433]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-16.05.33:513][433]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-16.05.33:513][433]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-16.05.33:513][433]LogAudioMixer: Display: Channel Order:
+[2020.03.07-16.05.33:513][433]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-16.05.33:513][433]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-16.05.33:524][433]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.05.33:527][433]LogInit: FAudioDevice initialized.
+[2020.03.07-16.05.33:571][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.05.33:572][433]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-16.05.33:573][433]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-13.05.33
+[2020.03.07-16.05.33:573][433]LogWorld: Bringing up level for play took: 0.000658
+[2020.03.07-16.05.33:573][433]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2020.03.07-16.05.33:579][433]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap -0.209
+[2020.03.07-16.05.43:398][ 14]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.05.43:401][ 14]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.07-16.05.43:421][ 14]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.07-16.05.43:421][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.05.43:422][ 14]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-16.05.43:437][ 14]LogSlate: Window 'myProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.07-16.05.43:443][ 14]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.05.43:444][ 14]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.05.43:444][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.05.43:455][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-16.05.43:460][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.05.43:495][ 14]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.05.43:502][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.03.07-16.05.43:528][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2020.03.07-16.06.23:812][368]LogSlate: Window 'Tutorials' being destroyed
+[2020.03.07-16.08.47:840][717]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.08.47:840][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.08.47:844][717]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.08.47:844][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.08.48:031][717]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.08.48:031][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.08.49:642][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.03.07-16.08.51:635][806]LogSlate: Window 'Save Content' being destroyed
+[2020.03.07-16.08.51:711][806]LogSavePackage: Moving '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Saved/MainAnimationBlueprintBBACC74D405AC921DF6D8EAD4FF57EA6.tmp' to '../../../../../../projetos/curso-unreal-jogo-tps/myProject/Content/game/character/animation/animationBlueprint/MainAnimationBlueprint.uasset'
+[2020.03.07-16.08.51:727][806]AssetCheck: New page: Asset Save: MainAnimationBlueprint
+[2020.03.07-16.08.51:727][806]LogContentValidation: Display: Validating AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint
+[2020.03.07-16.08.54:145][947]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.07-16.08.54:163][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.07-16.08.54:163][947]PIE: New page: PIE session: MainMap (Mar 7, 2020, 10:08:54 AM)
+[2020.03.07-16.08.54:163][947]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2020.03.07-16.08.54:165][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002260s)
+[2020.03.07-16.08.54:167][947]LogAIModule: Creating AISystem for world MainMap
+[2020.03.07-16.08.54:167][947]LogPlayLevel: PIE: World Init took: (0.001740s)
+[2020.03.07-16.08.54:167][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.004175s)
+[2020.03.07-16.08.54:201][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.03.07-16.08.54:202][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.07-16.08.54:202][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.07-16.08.54:202][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.07-16.08.54:202][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.07-16.08.54:202][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.07-16.08.54:202][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.07-16.08.54:202][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.07-16.08.54:202][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.07-16.08.54:203][947]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.07-16.08.54:203][947]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.07-16.08.54:217][947]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.07-16.08.54:217][947]LogAudioMixer: Display: Name: Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.08.54:217][947]LogAudioMixer: Display: Is Default: Yes
+[2020.03.07-16.08.54:217][947]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.07-16.08.54:218][947]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.07-16.08.54:218][947]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.07-16.08.54:218][947]LogAudioMixer: Display: Channel Order:
+[2020.03.07-16.08.54:218][947]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.07-16.08.54:218][947]LogAudioMixer: Display: 1: FrontRight
+[2020.03.07-16.08.54:229][947]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- USB headset BSF)
+[2020.03.07-16.08.54:232][947]LogInit: FAudioDevice initialized.
+[2020.03.07-16.08.54:238][947]LogLoad: Game class is 'MainGameMode_C'
+[2020.03.07-16.08.54:240][947]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.03.07-13.08.54
+[2020.03.07-16.08.54:241][947]LogWorld: Bringing up level for play took: 0.001104
+[2020.03.07-16.08.54:241][947]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2020.03.07-16.08.54:244][947]PIE: Play in editor start time for /Game/UEDPIE_0_MainMap 0.456
+[2020.03.07-16.09.03:059][474]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.09.03:060][474]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.09.03:060][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.09.03:060][474]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2020.03.07-16.09.03:060][474]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.09.03:060][474]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.09.03:060][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.09.03:071][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.07-16.09.03:076][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.09.03:106][474]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.07-16.09.03:109][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-16.09.03:113][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.03.07-16.09.03:165][476]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2020.03.07-16.09.14:147][117]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/game/character/animation/animationBlueprint/MainAnimationBlueprint.MainAnimationBlueprint
+[2020.03.07-16.09.14:163][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.07-16.09.14:427][117]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.07-16.09.14:725][117]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.07-16.09.38:465][516]LogSlate: Window 'Tutorials' being destroyed
+[2020.03.07-16.10.32:490][717]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.10.32:490][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.10.32:495][717]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.10.32:495][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.10.32:732][717]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.03.07-16.10.32:732][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.07-16.10.58:347][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
